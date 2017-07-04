@@ -4,9 +4,10 @@ A program used to compute student's grade in simple and easy way. It's similar l
 
 
 ### Program's output
+Click the image for video demonstration.
 <p align="center">
-  
-[![Everything Is AWESOME](https://github.com/Sparcsky/grade-generator/blob/master/image.PNG)](https://www.youtube.com/watch?v=eorEjTmfajc-Y "Everything Is AWESOME")
+ 
+[![Everything Is AWESOME](https://github.com/Sparcsky/grade-generator/blob/master/image.PNG)](https://www.youtube.com/watch?v=eorEjTmfajc-Y "click me")
 
 </p>
 
