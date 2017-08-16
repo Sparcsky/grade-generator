@@ -3,7 +3,7 @@ Grade generator is used to compute student's grade in simple and easy way. It's 
 
 
 
-### Program's output
+### Output
 Click the image for video demonstration.
 <p align="center">
  
